@@ -25,7 +25,7 @@ class AppTexts {
   static const hintEmail = "Email";
   static const hintConfirmPassword = "Confirm Password";
 /* ************************ ResetPassword  ******************* */
-  static const titleReset ='Enter your email below and we’ll send you a link to reset it.';
-  static const sentReset ='Send Reset Link';
-
+  static const titleReset =
+      'Enter your email below and we’ll send you a link to reset it.';
+  static const sentReset = 'Send Reset Link';
 }
